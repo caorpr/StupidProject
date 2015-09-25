@@ -1,4 +1,4 @@
-package ctec.PmStupidProject;
+package ctec.stupidproject;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
