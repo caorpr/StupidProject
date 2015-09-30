@@ -17,9 +17,7 @@
         android:layout_height="wrap_content"
         android:text="Press Me"
         android:id="@+id/sillyButton"
-        android:layout_below="@+id/sillyWords"
-        android:layout_toRightOf="@+id/sillyWords"
-        android:layout_toEndOf="@+id/sillyWords"
-        android:layout_marginTop="79dp" />
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
